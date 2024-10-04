@@ -1,0 +1,29 @@
+table,td,tr
+{
+border: 1px black solid;
+border-collapse: collapse;
+
+}
+
+.kettohat{
+
+background-color: green;
+
+
+
+}
+
+.nyolc{
+background-color: green;
+
+
+}
+
+.tiztizenketto{
+
+background-color: black;
+color: white;
+
+
+
+}
